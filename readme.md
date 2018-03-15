@@ -126,4 +126,9 @@ html{
 
 * NOTE : Jamais modifier le padding & margin des colonnes
 
-* NOTE : voir http://flexboxgrid.com/
+
+### Les liens utiles
+
+*  NOTE : http://flexboxgrid.com/
+*  NOTE : https://github.com/h5bp/Front-end-Developer-Interview-Questions Q&A qu'on peu avoir en entretien
+*  NOTE : http://cssnext.io/  FUTUR DU CSS Actuellement CSS3

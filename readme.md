@@ -117,7 +117,7 @@ html{
 * VW : très utile pour les interface fluides.
 
 ### Les utilies :
-* (Caniuse)(https://caniuse.com/): c'est compatible
+
 
 
 ### Les Flexbox Grid
@@ -132,3 +132,4 @@ html{
 *  NOTE : http://flexboxgrid.com/
 *  NOTE : https://github.com/h5bp/Front-end-Developer-Interview-Questions Q&A qu'on peu avoir en entretien
 *  NOTE : http://cssnext.io/  FUTUR DU CSS Actuellement CSS3
+*  NOTE : https://caniuse.com/ c'est compatible ou pô

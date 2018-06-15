@@ -123,8 +123,8 @@ html{
 * NOTE : Jamais modifier le padding & margin des colonnes
 
 
-## Font-face
-Les font-face permet de fournir les fonts du site.
+## @Font-face
+Les font-face permettent de définir les polices d'écriture à utiliser pour afficher le texte de pages web.
 ```css
 @font-face {
    font-family: "Oscour LaPolice";
@@ -141,6 +141,27 @@ Les formats:
 * Safari : .ttf, .svg, 
 * Opéra : .ttf, .svg,
 * Internet Explorer L😂L : .eot
+
+## Media queries
+outil de responsive design qui permet d'adapter la feuille de style CSS aux differents devices.
+```css
+
+body {
+  background-color: red;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    background-color: green;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: blue;
+  }
+}
+```
 
 ## Les liens utiles
 

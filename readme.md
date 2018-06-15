@@ -116,15 +116,28 @@ html{
 * Attention au VH et à son contenu. 100vh == 100vh quoi qu'il arrive.
 * VW : très utile pour les interface fluides.
 
-### Les utilies :
-
-
-
 ### Les Flexbox Grid
 
 * Les modificateurs réactifs permettent de spécifier différentes tailles de colonnes, décalages, alignement et distribution aux largeurs de la fenêtre xs, sm, md & lg
 
 * NOTE : Jamais modifier le padding & margin des colonnes
+
+
+## Font-face
+Les font-face permet de fournir les fonts du site.
+```css
+@font-face {
+   font-family: "Oscour LaPolice";
+   src: url("../fonts/Oscour-LaPolice.ttf");
+}
+
+.txt {
+   font-family: "Oscour LaPolice";
+}
+```
+Les formats: 
+Firefox : .ttf, .woff, Chrome : .ttf, .woff, .svg, Safari : .ttf, .svg, Opéra : .ttf, .svg,
+Internet Explorer : .eot, iPhone, iPad : .svg
 
 
 ### Les liens utiles

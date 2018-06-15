@@ -136,8 +136,11 @@ Les font-face permet de fournir les fonts du site.
 }
 ```
 Les formats: 
-Firefox : .ttf, .woff, Chrome : .ttf, .woff, .svg, Safari : .ttf, .svg, Opéra : .ttf, .svg,
-Internet Explorer : .eot, iPhone, iPad : .svg
+Firefox : .ttf, .woff, 
+Chrome : .ttf, .woff, .svg, 
+Safari : .ttf, .svg, 
+Opéra : .ttf, .svg,
+Internet Explorer L😂L : .eot, iPhone, iPad : .svg
 
 
 ### Les liens utiles

@@ -116,7 +116,7 @@ html{
 * Attention au VH et à son contenu. 100vh == 100vh quoi qu'il arrive.
 * VW : très utile pour les interface fluides.
 
-### Les Flexbox Grid
+## Les Flexbox Grid
 
 * Les modificateurs réactifs permettent de spécifier différentes tailles de colonnes, décalages, alignement et distribution aux largeurs de la fenêtre xs, sm, md & lg
 
@@ -142,7 +142,7 @@ Les formats:
 * Opéra : .ttf, .svg,
 * Internet Explorer L😂L : .eot
 
-### Les liens utiles
+## Les liens utiles
 
 *  NOTE : http://flexboxgrid.com/
 *  NOTE : https://github.com/h5bp/Front-end-Developer-Interview-Questions Q&A qu'on peu avoir en entretien
